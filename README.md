@@ -49,13 +49,13 @@ A curated collection of resources, projects, articles, and initiatives related t
 ### 🎮 Online Gaming Safety
 - [Family Online Safety Institute (FOSI)](https://www.fosi.org/) - Resources on child online safety, including gaming.
 - [ESRB Ratings](https://www.esrb.org/) - Game rating system helping parents choose appropriate titles.
+- [Be Internet Awesome](https://beinternetawesome.withgoogle.com/pt-br_br) - Google's internet safety program for kids.
 
 ### 🛡️ Digital Safety Tools
 - [NetClean](https://www.netclean.com/) - Solution for businesses to detect illegal child abuse material.
 - [Google SafeSearch](https://support.google.com/websearch/answer/510?hl=en) - Tool to block inappropriate content in search results.
 - [Bark](https://www.bark.us/) - Platform helping parents monitor and protect children online.
 - [Google Family Safety](https://safety.google/families/) - Online safety resources for families.
-- [Be Internet Awesome](https://beinternetawesome.withgoogle.com/pt-br_br) - Google's internet safety program for kids.
 - [Internet Safety 101](https://internetsafety101.org/Internetsafetytools) - Online safety tools and educational resources.
 
 ## 🚀 How to Contribute?
